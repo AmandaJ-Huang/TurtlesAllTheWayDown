@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
 
 /**
  * Created by kristofer on 7/14/20.
